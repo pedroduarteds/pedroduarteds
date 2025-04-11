@@ -33,8 +33,8 @@ Além do mundo da programação:
 ## 📫 Vamos nos conectar?
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-blue?logo=linkedin)](https://www.linkedin.com/in/pedroduarteds)
-- [![Instagram](https://img.shields.io/badge/Instagram-@seuusuario-ff69b4?logo=instagram)](https://[www.instagram.com/seuusuario](https://www.instagram.com/pedroduarteds/))
-- [![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-red?logo=gmail)](mailto:pedrohds1209@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-@pedroduarteds-ff69b4?logo=instagram)](https://[www.instagram.com/pedroduarteds](https://www.instagram.com/pedroduarteds/))
+- [![Gmail](https://img.shields.io/badge/Gmail-pedrohds1209@gmail.com-red?logo=gmail)](mailto:pedrohds1209@gmail.com)
 
 ---
 
