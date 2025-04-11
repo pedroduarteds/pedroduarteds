@@ -33,7 +33,7 @@ Além do mundo da programação:
 
 ## 📫 Vamos nos conectar?
 
-Você pode me encontrar por aqui mesmo no GitHub ou em outras redes sociais (adicione seus links aqui, como LinkedIn, e-mail, portfólio pessoal, etc).
+Você pode me encontrar por aqui mesmo no GitHub ou em outras redes sociais www.linkedin.com/in/pedroduarteds.
 
 ---
 
