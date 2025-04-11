@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia, sempre em busca de novos aprendizados e das mel
 
 - **Linguagens:** Python 🐍 | JavaScript ⚡
 - **Frontend:** HTML | CSS | React
-- **Banco de Dados:** Análise de Dados | Visualização | Manipulação com Python
+- **Banco de Dados & Dados:** Análise de Dados | Visualização | Manipulação com Python
 - **Outros:** Git | GitHub | APIs | Web Scraping
 
 ---
@@ -21,19 +21,20 @@ Estou sempre me atualizando sobre as principais tendências do mercado, com foco
 
 ---
 
-
 ## ⚡ Um pouco mais sobre mim
 
 Além do mundo da programação:
-- 🏃‍♂️ Pratico atividades físicas
-- 🎮 Gosto de jogar online
+- 🏃‍♂️ Pratico atividades físicas  
+- 🎮 Gosto de jogar online  
 - 🍳 Cozinhar é um dos meus hobbies favoritos!
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Você pode me encontrar por aqui mesmo no GitHub ou em outras redes sociais www.linkedin.com/in/pedroduarteds.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-blue?logo=linkedin)](https://www.linkedin.com/in/pedroduarteds)
+- [![Instagram](https://img.shields.io/badge/Instagram-@seuusuario-ff69b4?logo=instagram)](https://[www.instagram.com/seuusuario](https://www.instagram.com/pedroduarteds/))
+- [![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-red?logo=gmail)](mailto:pedrohds1209@gmail.com)
 
 ---
 
