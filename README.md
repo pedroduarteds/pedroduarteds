@@ -8,9 +8,9 @@ Sou um entusiasta da tecnologia, sempre em busca de novos aprendizados e das mel
 
 ## 🚀 Habilidades Técnicas
 
-- **Linguagens:** Python 🐍 | JavaScript ⚡
-- **Frontend:** HTML | CSS | React
-- **Banco de Dados & Dados:** Análise de Dados | Visualização | Manipulação com Python
+- **Linguagens:** Python 🐍 | JavaScript ⚡  
+- **Frontend:** HTML | CSS | React  
+- **Banco de Dados & Dados:** Análise de Dados | Visualização | Manipulação com Python  
 - **Outros:** Git | GitHub | APIs | Web Scraping
 
 ---
@@ -32,8 +32,8 @@ Além do mundo da programação:
 
 ## 📫 Vamos nos conectar?
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-blue?logo=linkedin)](https://www.linkedin.com/in/pedroduarteds)
-- [![Instagram](https://img.shields.io/badge/Instagram-@pedroduarteds-ff69b4?logo=instagram)](https://[www.instagram.com/pedroduarteds](https://www.instagram.com/pedroduarteds/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Duarte-blue?logo=linkedin)](https://www.linkedin.com/in/pedroduarteds)
+- [![Instagram](https://img.shields.io/badge/Instagram-@pedroduarteds-ff69b4?logo=instagram)](https://www.instagram.com/pedroduarteds/)
 - [![Gmail](https://img.shields.io/badge/Gmail-pedrohds1209@gmail.com-red?logo=gmail)](mailto:pedrohds1209@gmail.com)
 
 ---
